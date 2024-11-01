@@ -1,3 +1,3 @@
 # CV project
 
-Project to learn CSS, HTML and flex container.
+Project done to learn CSS, HTML and flex container.
